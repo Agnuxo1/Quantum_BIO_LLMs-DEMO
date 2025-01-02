@@ -4,6 +4,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## DEMO: https://stackblitz.com/edit/github-kskekmk1-3klplxvc?file=README.md
+
 ## Overview
 
 Quantum BIO LLMs is a cutting-edge project that combines quantum computing principles with biological-inspired neural architectures to create a next-generation language model system. The project implements novel approaches in:
